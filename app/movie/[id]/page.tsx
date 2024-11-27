@@ -4,7 +4,6 @@ import MovieContainer from "@/components/MovieContainer";
 import { getImagePath } from "@/hooks/getImagePath";
 import { useMovieId } from "@/hooks/useMovies";
 
-import { Metadata } from "next";
 import Image from "next/image";
 import React from "react";
 

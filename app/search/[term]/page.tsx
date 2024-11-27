@@ -2,7 +2,6 @@
 
 import MovieContainer from "@/components/MovieContainer";
 import { useSearch } from "@/hooks/useMovies";
-import { getPopularMovies, getSearchedMovies } from "@/lib/getMovies";
 
 interface Props {
   params: {

@@ -1,7 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
 
-import GenreDropDown from "./GenreDropDown";
 import SearchInput from "./SearchInput";
 
 const Header = () => {
